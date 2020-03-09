@@ -1,0 +1,11 @@
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\bin\Debug\netcoreapp3.0\RobotFabrikası.exe
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\bin\Debug\netcoreapp3.0\RobotFabrikası.deps.json
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\bin\Debug\netcoreapp3.0\RobotFabrikası.runtimeconfig.json
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\bin\Debug\netcoreapp3.0\RobotFabrikası.runtimeconfig.dev.json
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\bin\Debug\netcoreapp3.0\RobotFabrikası.dll
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\bin\Debug\netcoreapp3.0\RobotFabrikası.pdb
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\obj\Debug\netcoreapp3.0\RobotFabrikası.csprojAssemblyReference.cache
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\obj\Debug\netcoreapp3.0\RobotFabrikası.AssemblyInfoInputs.cache
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\obj\Debug\netcoreapp3.0\RobotFabrikası.AssemblyInfo.cs
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\obj\Debug\netcoreapp3.0\RobotFabrikası.dll
+C:\Users\terzi\source\repos\RobotFabrikası\RobotFabrikası\obj\Debug\netcoreapp3.0\RobotFabrikası.pdb
